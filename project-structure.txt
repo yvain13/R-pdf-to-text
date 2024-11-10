@@ -1,0 +1,17 @@
+pdf-to-text-api/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── schemas.py
+│   └── services.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_main.py
+│   └── test_services.py
+├── client/
+│   └── pdf_client.py
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── Dockerfile
+└── render.yaml
